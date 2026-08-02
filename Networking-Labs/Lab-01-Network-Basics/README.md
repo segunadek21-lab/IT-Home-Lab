@@ -23,12 +23,16 @@ traceroute google.com
 
 ## Results
 ### MacOS
+
 ping
 ![MacOS ping](images/macOS/mac-ping.png)
+
 Nslookup
 ![MacOS nslookuo](images/macOS/mac-nslookup.png)
+
 Ifconfig
 ![MacOS ifconfig](images/macOS/mac-ifconfig.png)
+
 Traceroute
 ![MacOS traceroute](images/macOS/mac-traceroute.png)
 
