@@ -19,7 +19,7 @@ traceroute google.com
 
 ## Results
 
-![MacOS ipconfig](images/mac-ipconfig.png)
+![MacOS ipconfig](images/mac-ifconfig.png)
 
 ## What I Learned
 
