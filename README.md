@@ -11,7 +11,8 @@ Coming Soon
 Coming Soon
 
 ### Networking Lab
-Coming Soon
+Lab 1 - Network Basics
+- These labs demonstrate how to use command prompts in both Windows and MacOS workstations. 
 
 ### PowerShell Lab
 Coming Soon
