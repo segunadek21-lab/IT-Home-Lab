@@ -1,4 +1,4 @@
-# 🌐 Networking Lab
+# 🌐 Networking Labs
 
 Welcome to my Networking Lab.
 
