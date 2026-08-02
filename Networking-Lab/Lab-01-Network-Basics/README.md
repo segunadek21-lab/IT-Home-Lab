@@ -19,7 +19,7 @@ traceroute google.com
 
 ## Results
 
-(Add screenshots)
+![Windows ipconfig](images/windows-ipconfig.png)
 
 ## What I Learned
 
