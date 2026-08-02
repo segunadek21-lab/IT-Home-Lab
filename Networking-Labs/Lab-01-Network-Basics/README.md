@@ -22,9 +22,10 @@ ipconfig google.com
 traceroute google.com
 
 ## Results
+
 ### MacOS
 
-ping
+Ping
 ![MacOS ping](images/macOS/mac-ping.png)
 
 Nslookup
