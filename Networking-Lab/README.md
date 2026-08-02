@@ -1,4 +1,4 @@
-# Networking Lab
+# Networking Labs
 
 ## Objective
 
