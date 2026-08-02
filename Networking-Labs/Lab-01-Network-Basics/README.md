@@ -18,7 +18,7 @@ nslookup github.com
 traceroute google.com
 
 ## Results
-
+# MacOS
 ![MacOS ping](images/macOS/mac-ping.png)
 ![MacOS nslookuo](images/macOS/mac-nslookup.png)
 ![MacOS ifconfig](images/macOS/mac-ifconfig.png)
