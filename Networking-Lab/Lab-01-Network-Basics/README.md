@@ -19,7 +19,7 @@ traceroute google.com
 
 ## Results
 
-![Windows ipconfig](images/windows-ipconfig.png)
+![Windows ipconfig](images/mac-ipconfig.png)
 
 ## What I Learned
 
