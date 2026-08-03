@@ -40,12 +40,12 @@ This repository documents my hands-on networking exercises as I transition into 
 Learned how to identify network settings and verify connectivity using built-in networking tools.
 
 **Topics**
-- IP Addressing
-- Default Gateway
-- DNS Servers
-- Ping
-- Traceroute
-- Network Configuration
+- IP Configuration
+- Default Gateway Identification
+- DNS Resolution
+- Connectivity Testing (Ping)
+- Route Analysis (Traceroute)
+- Network Interface Configuration
 
 ---
 
