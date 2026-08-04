@@ -4,40 +4,36 @@
 Learn how to identify network settings and my computer's IP configuration.
 
 ## Tools
+
 - Terminal
-- ping
 - ifconfig/ipconfig
-- nslookup
 - traceroute
 
 ## Commands Used
 ### Windows
-ping google.com
-
 ipconfig /all
+
+ping google.com
 
 tracert google.com
 
 ### MacOS
+ifconfig
 
 ping google.com
-
-ifconfig google.com
 
 traceroute google.com
 
 ## Results
+### Windows
 
 ### MacOS
 
-Ping
-![MacOS ping](images/macOS/mac-ping.png)
-
-Nslookup
-![MacOS nslookuo](images/macOS/mac-nslookup.png)
-
 Ifconfig
 ![MacOS ifconfig](images/macOS/mac-ifconfig.png)
+
+Ping
+![MacOS ping](images/macOS/mac-ping.png)
 
 Traceroute
 ![MacOS traceroute](images/macOS/mac-traceroute.png)
