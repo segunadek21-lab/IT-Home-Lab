@@ -28,7 +28,7 @@ traceroute google.com
 ### Windows
 
 IPconfig
-![Windows ipconfig](images/Windows/windows-ipconfigall.png)
+![Windows ipconfig](images/Windowswindows-ipconfigall.PNG)
 
 Ping
 ![Windows ping](images/Windows/windows-ping.png)
