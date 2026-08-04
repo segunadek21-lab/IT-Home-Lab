@@ -37,7 +37,7 @@ Ping
 
 Tracert
 
-![Windows traceroute](images/Windows/windows-tracert.png)
+![Windows traceroute](images/Windows/windows-tracert.PNG)
 
 ### MacOS
 
