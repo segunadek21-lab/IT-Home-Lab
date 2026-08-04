@@ -12,14 +12,15 @@ Learn how to identify network settings and my computer's IP configuration.
 
 ## Commands Used
 ### Windows
+ping google.com
 
-ipconfig google.com
+ipconfig /all
+
+tracert google.com
 
 ### MacOS
 
 ping google.com
-
-nslookup google.com
 
 ifconfig google.com
 
