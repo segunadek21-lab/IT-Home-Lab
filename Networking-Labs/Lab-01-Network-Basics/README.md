@@ -27,6 +27,15 @@ traceroute google.com
 ## Results
 ### Windows
 
+IPconfig
+![Windows ipconfig](images/Windows/windows-ipconfigall.png)
+
+Ping
+![Windows ping](images/Windows/windows-ping.png)
+
+Traceroute
+![Windows traceroute](images/Windows/windows-tracert.png)
+
 ### MacOS
 
 Ifconfig
