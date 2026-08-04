@@ -33,7 +33,7 @@ IPconfig
 Ping
 ![Windows ping](images/Windows/windows-ping.png)
 
-Traceroute
+Tracert
 ![Windows traceroute](images/Windows/windows-tracert.png)
 
 ### MacOS
