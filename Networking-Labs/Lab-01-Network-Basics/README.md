@@ -32,6 +32,7 @@ IPconfig
 
 Ping
 ![Windows ping](images/Windows/windows-ping.png)
+![Windows ping](images/Windows/windows-ping.png)
 
 Tracert
 ![Windows traceroute](images/Windows/windows-tracert.png)
