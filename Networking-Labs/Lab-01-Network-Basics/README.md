@@ -11,13 +11,17 @@ Learn how to identify network settings and test connectivity.
 - traceroute
 
 ## Commands Used
+### Windows
+
+ipconfig google.com
+
+### MacOS
 
 ping google.com
 
 nslookup google.com
 
 ifconfig google.com
-ipconfig google.com
 
 traceroute google.com
 
