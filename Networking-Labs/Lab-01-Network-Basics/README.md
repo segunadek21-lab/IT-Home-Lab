@@ -33,7 +33,7 @@ IPconfig
 
 Ping
 
-![Windows ping](images/Windows/windows-ping.png)
+![Windows ping](images/Windows/windows-ping.PNG)
 
 Tracert
 
