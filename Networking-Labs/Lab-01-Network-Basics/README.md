@@ -1,12 +1,12 @@
 # Lab 1 – Network Basics
 
 ## Objective
-Learn how to identify network settings and test connectivity.
+Learn how to identify network settings and my computer's IP configuration.
 
 ## Tools
 - Terminal
 - ping
-- ifconfid/ipconfig
+- ifconfig/ipconfig
 - nslookup
 - traceroute
 
