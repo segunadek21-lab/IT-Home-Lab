@@ -146,8 +146,6 @@ Networking-Lab/
 ├── Lab-05-Network Scanning
     └── README.md
     └── images
-│
-└── Images
 ```
 
 ---
