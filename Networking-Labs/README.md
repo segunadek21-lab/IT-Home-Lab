@@ -157,8 +157,8 @@ These labs simulate many of the networking tasks performed by Help Desk Technici
 
 | Lab | Status |
 |------|--------|
-| Network Basics | 🟡 In Progress |
-| DNS Troubleshooting | ⏳ Planned |
+| Network Basics | ✅ Completed |
+| DNS Troubleshooting | 🟡 In Progress |
 | Connectivity Testing | ⏳ Planned |
 | Wireshark | ⏳ Planned |
 | Nmap | ⏳ Planned |
