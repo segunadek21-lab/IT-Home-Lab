@@ -18,16 +18,26 @@ This repository documents my hands-on networking exercises as I transition into 
 
 ## 🛠️ Tools & Technologies
 
+### Operating Systems
 - Windows 11
 - macOS
-- Terminal / Command Prompt
+### Command-Line Utilities
+- ipconfig
+- ifconfig
+- ping
+- traceroute
+- tracert
+- nslookup
+- netstat
 - PowerShell
-- Ping
-- Traceroute / Tracert
-- Nslookup
-- IPConfig / IFConfig
+- Terminal
+
+### Network Analysis 
 - Wireshark
 - Nmap
+
+### Virtualization
+- VirtualBox (Coming Soon)
 - Virtual Machines (Coming Soon)
 
 ---
@@ -122,10 +132,20 @@ Networking-Lab/
 ├── README.md
 │
 ├── Lab-01-Network-Basics
+    └── README.md
+    └── images
 ├── Lab-02-DNS-Troubleshooting
+    └── README.md
+    └── images
 ├── Lab-03-Connectivity-Testing
-├── Lab-04-Wireshark
-├── Lab-05-Nmap
+    └── README.md
+    └── images
+├── Lab-04-Wireshark Packer Analysis
+    └── README.md
+    └── images
+├── Lab-05-Network Scanning
+    └── README.md
+    └── images
 │
 └── Images
 ```
