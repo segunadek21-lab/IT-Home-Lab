@@ -35,11 +35,11 @@ This repository documents my hands-on networking exercises as I transition into 
 # 📚 Labs
 
 ## ✅ Lab 01 – Network Basics
-**Status:** In Progress
+**Status:** COMPLETE
 
 Learned how to identify network settings and verify connectivity using built-in networking tools.
 
-**Topics**
+**Skills Covered**
 - IP Configuration
 - Default Gateway Identification
 - DNS Resolution
@@ -50,10 +50,11 @@ Learned how to identify network settings and verify connectivity using built-in 
 ---
 
 ## ⏳ Lab 02 – DNS Troubleshooting
+**Status:** In Progress
 
 Learn how DNS works and how to troubleshoot name resolution problems.
 
-**Topics**
+**Skills Covered**
 - DNS
 - Nslookup
 - Public DNS
@@ -65,7 +66,7 @@ Learn how DNS works and how to troubleshoot name resolution problems.
 
 Practice identifying connectivity issues using ICMP and routing tools.
 
-**Topics**
+**Skills Covered**
 - Packet Loss
 - Latency
 - Routing
@@ -77,7 +78,7 @@ Practice identifying connectivity issues using ICMP and routing tools.
 
 Capture and analyze network traffic using Wireshark.
 
-**Topics**
+**Skills Covered**
 - Packet Capture
 - DNS Packets
 - HTTP/HTTPS
@@ -90,7 +91,7 @@ Capture and analyze network traffic using Wireshark.
 
 Use Nmap to discover devices and services on a network.
 
-**Topics**
+**Skills Covered**
 - Port Scanning
 - Host Discovery
 - Open Ports
