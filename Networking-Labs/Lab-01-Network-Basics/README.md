@@ -55,7 +55,7 @@ Traceroute
 
 ## What I Learned
 
-Explain the concepts in your own words.
+These commands are essentials in troubleshooting network issues in workstation. IT Technicians should be able to navigate these commands and understand what the results produced.
 
 ## Real-World Use
 
