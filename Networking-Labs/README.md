@@ -132,19 +132,19 @@ Networking-Lab/
 ├── README.md
 │
 ├── Lab-01-Network-Basics
-│   └── README.md
+│   ├── README.md
 │   └── images
 ├── Lab-02-DNS-Troubleshooting
-│   └── README.md
+│   ├── README.md
 │   └── images
 ├── Lab-03-Connectivity-Testing
-│   └── README.md
+│   ├── README.md
 │   └── images
 ├── Lab-04-Wireshark Packer Analysis
-│   └── README.md
+│   ├── README.md
 │   └── images
 ├── Lab-05-Network Scanning
-    └── README.md
+    ├── README.md
     └── images
 ```
 
