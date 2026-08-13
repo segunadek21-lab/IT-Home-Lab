@@ -21,3 +21,13 @@ microsoft.com
 ```
 
 into IP addresses that computers can use to communicate with the destination server.
+
+For example:
+
+```text
+google.com → IP Address
+```
+
+Instead of requiring users to remember numerical IP addresses, DNS allows us to use human-readable domain names.
+
+---
