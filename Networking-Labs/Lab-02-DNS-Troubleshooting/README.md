@@ -31,3 +31,32 @@ google.com → IP Address
 Instead of requiring users to remember numerical IP addresses, DNS allows us to use human-readable domain names.
 
 ---
+# 🔎 Lab Exercises
+
+## Exercise 1 – Identify Configured DNS Servers
+
+### Objective
+
+Identify which DNS servers are being used by the operating system.
+
+### Windows
+
+Run:
+
+```cmd
+ipconfig /all
+```
+
+Locate:
+
+```text
+DNS Servers
+```
+
+### macOS
+
+Run:
+
+```bash
+scutil --dns
+```
