@@ -60,3 +60,5 @@ Run:
 ```bash
 scutil --dns
 ```
+
+Locate the configured DNS resolver information.
